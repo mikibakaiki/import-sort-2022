@@ -3,6 +3,10 @@
 `import-sort` is a set of packages that allow you to sort your ES2015 (aka ES6)
 imports. Both JavaScript and TypeScript files are supported.
 
+# DISCLAIMER
+
+This is a complete fork from the original work by [Renke](https://github.com/renke). I'm only forking this to update the dependencies - the original repo had a last commit from 2019
+
 # Sorting imports
 
 There are multiple ways to actually sort your imports. Just pick the one that

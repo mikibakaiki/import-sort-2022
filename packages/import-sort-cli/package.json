@@ -22,13 +22,13 @@
     "lib"
   ],
   "devDependencies": {
-    "@types/chai": "^4.1.4",
-    "@types/diff": "^4.0.0",
-    "@types/globby": "^8.0.0",
-    "@types/mkdirp": "^0.5.2",
-    "@types/mocha": "^5.2.3",
-    "@types/node": "^10.3.5",
-    "@types/yargs": "^12.0.8",
+    "@types/chai": "^4.3.4",
+    "@types/diff": "^5.0.2",
+    "@types/globby": "^9.1.0",
+    "@types/mkdirp": "^1.0.2",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.11.10",
+    "@types/yargs": "^17.0.15",
     "@typescript-eslint/eslint-plugin": "^1.2.0",
     "chai": "^4.0.2",
     "eslint": "^5.13.0",
@@ -37,21 +37,21 @@
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jsx-a11y": "^6.2.0",
     "eslint-plugin-react": "^7.12.4",
-    "mocha": "^5.2.0",
-    "ts-node": "^8.0.2",
+    "mocha": "^10.1.0",
+    "ts-node": "^10.9.1",
     "typescript": "^3.2.4"
   },
   "dependencies": {
     "diff": "^4.0.1",
     "file": "^0.2.2",
-    "globby": "^9.0.0",
+    "globby": "^13.1.2",
     "import-sort": "^6.0.0",
     "import-sort-config": "^6.0.0",
     "import-sort-parser": "^6.0.0",
     "import-sort-parser-babylon": "^6.0.0",
     "import-sort-style": "^6.0.0",
     "import-sort-style-eslint": "^6.0.0",
-    "mkdirp": "^0.5.1",
-    "yargs": "^12.0.5"
+    "mkdirp": "^1.0.4",
+    "yargs": "^17.6.2"
   }
 }
